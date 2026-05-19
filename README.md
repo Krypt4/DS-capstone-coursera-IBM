@@ -1,13 +1,4 @@
 <div align="center">
-
-## ⚠️ Project Notice
-
-> 🤖 **AI-assisted files**  
-> `index.html` and this `README.md` were generated with the help of artificial intelligence.
->
-> 🧠 **Original work**  
-> All other content in this repository — including notebooks, analyses, models, and data — is entirely my own.
-
 ---
 
 > 🌐 [View interactive project page](https://Krypt4.github.io/DS_Capstone_Coursera_IBM/)
@@ -181,6 +172,15 @@ DS_Capstone_Coursera_IBM/
 > 📄 [View AI Grading Report](examResults/AI_GradingFeedback.pdf)
 
 ---
+
+## ⚠️ Project Notice
+
+> 🤖 **AI-assisted files**  
+> `index.html` and this `README.md` were generated with the help of artificial intelligence.
+>
+> 🧠 **Original work**  
+> All other content in this repository — including notebooks, analyses, models, and data — is entirely my own.
+
 
 <div align="center">
 
