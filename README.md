@@ -1,3 +1,4 @@
+<div align="center">
 
 > 🌐 [View interactive project page](https://Krypt4.github.io/DS_Capstone_Coursera_IBM/)
 
@@ -172,7 +173,6 @@ DS_Capstone_Coursera_IBM/
 ---
 
 <div align="center">
----
 
 ## ⚠️ Project Notice
 
