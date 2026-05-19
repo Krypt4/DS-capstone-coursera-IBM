@@ -1,5 +1,3 @@
-<div align="center">
----
 
 > 🌐 [View interactive project page](https://Krypt4.github.io/DS_Capstone_Coursera_IBM/)
 
@@ -171,6 +169,9 @@ DS_Capstone_Coursera_IBM/
 
 > 📄 [View AI Grading Report](examResults/AI_GradingFeedback.pdf)
 
+---
+
+<div align="center">
 ---
 
 ## ⚠️ Project Notice
