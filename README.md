@@ -1,7 +1,5 @@
 <div align="center">
 
-> 🌐 [View interactive project page](https://Krypt4.github.io/DS_Capstone_Coursera_IBM/)
-
 # 🚀 SpaceX Falcon 9 — Landing Predictor
 
 ### IBM Data Science Professional Certificate · Capstone Project
@@ -15,19 +13,19 @@
 ---
 
 *Can the first stage of a Falcon 9 land itself back on Earth?*  
-*That question is worth the difference between **\$62M** and **\$165M** per launch.*
+*That question is worth the difference between \$62M and \$165M per launch.*
 
 ---
 
 </div>
 
-## 🎯 Mission Objective
+## Mission Objective
 
-Predict whether the **Falcon 9's first stage booster** will successfully land after a launch — a critical input for estimating the true cost of each mission. The project covers the full Data Science lifecycle: raw data collection, wrangling, SQL + visual EDA, interactive maps, a live dashboard, and a four-model machine learning comparison.
+Predict Falcon 9 first-stage landing success to estimate mission costs, using the full Data Science lifecycle, from data collection and EDA to interactive dashboards and machine learning model comparison.
 
 ---
 
-## 📡 Launch Sequence
+## Launch Sequence
 
 ### `01` — Data Collection
 > `01_dataCollection/`
@@ -95,14 +93,14 @@ Predict whether the **Falcon 9's first stage booster** will successfully land af
 |---|:---:|
 | Logistic Regression | ~83% |
 | Support Vector Machine | ~83% |
-| **Decision Tree** | **~89% ✨** |
+| **Decision Tree** | **~89%** |
 | K-Nearest Neighbors | ~83% |
 
 > **Decision Tree** achieved the highest accuracy after hyperparameter optimization with `GridSearchCV`.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 DS_Capstone_Coursera_IBM/
@@ -143,7 +141,7 @@ DS_Capstone_Coursera_IBM/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -158,7 +156,7 @@ DS_Capstone_Coursera_IBM/
 
 ---
 
-## 📋 Grading
+## Grading
 
 <div align="center">
 
@@ -166,9 +164,9 @@ DS_Capstone_Coursera_IBM/
 
 </div>
 
-## 🤖 AI Evaluation Feedback
+## AI Evaluation Feedback
 
-> 📄 [View AI Grading Report](examResults/AI_GradingFeedback.pdf)
+> [View AI Grading Report](examResults/AI_GradingFeedback.pdf)
 
 ---
 
@@ -176,9 +174,6 @@ DS_Capstone_Coursera_IBM/
 
 ## ⚠️ Project Notice
 
-> 🤖 **AI-assisted files**  
-> `index.html` and this `README.md` were generated with the help of artificial intelligence.
->
 > 🧠 **Original work**  
 > All other content in this repository — including notebooks, analyses, models, and data — is entirely my own.
 
